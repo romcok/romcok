@@ -1,4 +1,4 @@
-# Hey there, Roman is here ✌️
+# Hey there, Roman here ✌️
 
 🧑‍💻 With over **17 years of experience** as a **software engineer**, I have a strong foundation in a range of technologies and a track record of delivering software for clients across various industries. My expertise lies in building scalable, serverless applications on **AWS** using **NodeJS**, **TypeScript**, **GraphQL**, and databases such as **PostgreSQL** and **DynamoDB**. I am also proficient in using tools such as **AWS CDK** and **Terraform** for infrastructure as code and deployment automation. Throughout my career, I have consistently demonstrated my ability to learn new technologies quickly and adapt to changing project requirements.
 
