@@ -4,14 +4,14 @@
 
 ## 🛠️ Skills
 
-### Programming Languages
+### Programming Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Frontend Development
+### Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,7 +22,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### Backend Development
+### Backend Development
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -33,7 +33,7 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Koa](https://img.shields.io/badge/Koa-33333D?style=for-the-badge&logo=koa&logoColor=white)
 
-### DevOps
+### DevOps
 
 ![CDK](https://img.shields.io/badge/CDK-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -68,7 +68,7 @@
 ![Micropayments](https://img.shields.io/badge/Micropayments-E8E8E8?style=for-the-badge&logo=micropayments&logoColor=333)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
-### Software Architect
+### Software Architect
 
 ![Service Oriented](https://img.shields.io/badge/Service%20Oriented-E8E8E8?style=for-the-badge&logo=service-oriented&logoColor=333)
 ![Onion](https://img.shields.io/badge/Onion-E8E8E8?style=for-the-badge&logo=onion&logoColor=333)
